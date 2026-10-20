@@ -1,42 +1,62 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/qabas-solution/.github/main/profile/banner.png" alt="Qabas - Empowering Vision. Building Bridges of Knowledge." width="100%">
-</p>
-
-<p align="center">
-  <a href="https://qabas-demo.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-qabas--demo.vercel.app-0A2D5A?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"></a>
-  <img src="https://img.shields.io/badge/Status-Prototype_Ready-F2B01E?style=for-the-badge" alt="Status: prototype ready">
-  <img src="https://img.shields.io/badge/Open_to-Pilots_%26_Competitions-B42828?style=for-the-badge" alt="Open to pilots and competitions">
+  <img src="https://raw.githubusercontent.com/qabas-solution/.github/main/profile/banner.png" alt="قَبَس: نمكّن البصيرة ونبني جسور المعرفة" width="100%">
 </p>
 
 <div dir="rtl" align="right">
 
-## قَبَس: نمكّن البصيرة.. ونبني جسور المعرفة
+# قَبَس
 
-قَبَس فريق متخصص في حلول برايل العربية. نبني حلولًا تعليمية وتقنيات مساعدة تجعل قراءة برايل وتعلّمه ومشاركته بالعربية أسهل.
+**نُضيء الطريق... من البريل إلى العربية ✨**
 
-### أين وصلنا
+قَبَس يترجم نقاط برايل إلى العربية بذكاء وبساطة، ليقرّب المعرفة من العائلات والمعلّمين ومجتمع ذوي الإعاقة البصرية.
 
-- ✅ نموذج أولي يعمل
-- ✅ نسخة تجريبية من الموقع: [qabas-demo.vercel.app](https://qabas-demo.vercel.app/)
-- 🧪 جاهزون لتجربته مع مستخدمين حقيقيين
+فكرتنا بسيطة: كل إنسان يستحق أن يقرأ ويتعلّم، وبرايل يجب أن يكون سهل الفهم للجميع.
+
+[🌐 جرّب المنصة](https://qabas-demo.vercel.app/) &nbsp;|&nbsp; [✉️ راسلنا](mailto:qabas.ai.team@gmail.com)
+
+## إلى أين وصلنا؟
+
+- ✅ نموذج أولي جاهز
+- ✅ موقع تجريبي يعمل: [qabas-demo.vercel.app](https://qabas-demo.vercel.app/)
+- 🧪 جاهزون لتجربته مع ناس حقيقيين
 - 🏆 جاهزون للمشاركة في المسابقات
 
-### ماذا نبني
+## كيف يعمل قَبَس؟
+
+1. تعطي قَبَس نقاط برايل.
+2. يحوّلها فورًا إلى حرف أو كلمة بالعربية.
+3. تستمع للنتيجة، أو تنسخها، أو تشاركها مع غيرك.
+
+## من يستفيد منه؟
+
+- 👨‍👩‍👧 **العائلات** التي تريد أن تفهم ما يقرؤه أبناؤها بلغة برايل
+- 👩‍🏫 **المعلّمون** الذين يشرحون ويصحّحون دون عناء
+- 🤝 **مجتمع ذوي الإعاقة البصرية** الذي يستحق أدوات بسيطة تفتح له باب المعرفة
+
+## الصورة الأكبر
+
+| الرقم | ماذا يعني |
+|---|---|
+| **3.5 مليون** | تقدير لعدد ذوي الإعاقة البصرية في مصر |
+| **116** | مدرسة مكفوفين متخصصة |
+| **51** | مدرسة دمج |
+
+## ماذا نبني؟
 
 - **ترجمة برايل إلى العربية**، وهي قلب المنصة
 - **بوابة ويب** تضم موقعًا عامًا ولوحة تحكم
 - **تطبيق موبايل** للاستخدام اليومي
 - **نماذج ذكاء اصطناعي** تدعم الترجمة
 
-### تواصل معنا
+## تعال نجرّب معك 💛
 
-هل أنت مدرسة أو جهة أو منظّم مسابقة؟ هل تريد تجربة قَبَس مع مستخدمين حقيقيين؟ يسعدنا أن نسمع منك.
+هل أنت مدرسة، أو جهة، أو منظّم مسابقة؟ هل تحب أن تجرّب قَبَس مع مستخدمين حقيقيين؟ يسعدنا أن نسمع منك.
 
-- جرّب النسخة التجريبية: [qabas-demo.vercel.app](https://qabas-demo.vercel.app/)
-- البريد الإلكتروني: `<TEAM_EMAIL>`
+- 🌐 النسخة التجريبية: [qabas-demo.vercel.app](https://qabas-demo.vercel.app/)
+- ✉️ البريد: [qabas.ai.team@gmail.com](mailto:qabas.ai.team@gmail.com)
 
 </div>
 
 ---
 
-<p align="center"><sub>© 2026 The Qabas Team. All rights reserved. Our repositories are private.</sub></p>
+<p align="center"><sub>© 2026 فريق قَبَس. جميع الحقوق محفوظة، ومستودعاتنا خاصة.</sub></p>
