@@ -1,0 +1,35 @@
+name: Feature request
+description: Suggest an idea or an improvement
+title: "feat: "
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: track
+    attributes:
+      label: Track
+      options:
+        - Frontend
+        - Backend
+        - Flutter
+        - AI-ML
+        - Cloud DevOps
+        - Business
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does this solve?
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: What do you suggest?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Other options you considered

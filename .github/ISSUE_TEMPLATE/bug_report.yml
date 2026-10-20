@@ -1,0 +1,48 @@
+name: Bug report
+description: Something is broken or behaving unexpectedly
+title: "bug: "
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: track
+    attributes:
+      label: Track
+      description: Which track does this belong to?
+      options:
+        - Frontend
+        - Backend
+        - Flutter
+        - AI-ML
+        - Cloud DevOps
+        - Business
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the problem clearly.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Go to ...
+        2. Click ...
+        3. See the error
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or logs
+      description: Drag and drop images here, or paste error messages. Never paste secrets.
